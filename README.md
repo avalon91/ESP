@@ -1,4 +1,4 @@
-## Repositório de arquivos e links úteis para a plataforma ESP
+## Repositório de arquivos e links úteis para a plataforma ESP-12E
 
 ***
 
